@@ -1,0 +1,7 @@
+allprojects {
+    apply plugin: 'idea'
+
+    group   = 'pl.helenium.confugu'
+    version = '0.1.0-SNAPSHOT'
+}
+

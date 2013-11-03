@@ -1,0 +1,11 @@
+.gradle
+build
+
+# backup files
+*~
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
